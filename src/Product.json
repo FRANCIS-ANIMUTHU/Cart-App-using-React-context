@@ -1,0 +1,72 @@
+[
+{
+    "id":1,
+    "name":"Audi",
+    "price":"Rs.8990000",
+    "qty":0,
+    "img":"./Audi.jpg"
+},
+{
+    "id":2,
+    "name":"Swift",
+    "price":"Rs.5730000",
+    "qty":0,
+    "img":"./Swift.jpg"
+},
+{
+    "id":3,
+    "name":"Scorpio",
+    "price":"Rs.2400000",
+    "qty":0,
+    "img":"./Scorpio.jpg"
+},
+{
+    "id":4,
+    "name":"Toyota",
+    "price":"Rs.3200000",
+    "qty":0,
+    "img":"./Toyota.jpg"
+},
+{
+    "id":5,
+    "name":"Tata Sumo",
+    "price":"Rs.8930000",
+    "qty":0,
+    "img":"./Tata Sumo.jpg"
+},
+{
+    "id":6,
+    "name":"Kia Seltos",
+    "price":"Rs.1050000",
+    "qty":0,
+    "img":"./Kia Seltos.jpg"
+},
+{
+    "id":7,
+    "name":"BMW i4",
+    "price":"Rs.699000",
+    "qty":0,
+    "img":"./BMW i4.jpg"
+},
+{
+    "id":8,
+    "name":"Baleno",
+    "price":"Rs.960000",
+    "qty":0,
+    "img":"./Baleno.jpg"
+},
+{
+    "id":9,
+    "name":"Skoda Exterior",
+    "price":"Rs.3995000",
+    "qty":0,
+    "img":"./Skoda Exterior.jpg"
+},
+{
+    "id":10,
+    "name":"Hyundai Venue",
+    "price":"Rs.1272000",
+    "qty":0,
+    "img":"./Hyundai Venue.jpg"
+}
+]

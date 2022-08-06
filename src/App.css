@@ -1,0 +1,31 @@
+
+.main{
+    justify-content: center;
+    background-color: rgb(77, 51, 51);
+    height:150vh;
+}
+.navi{
+    background-color: rgb(193, 225, 226);
+    padding: 2%;
+}
+.navi li{
+    list-style: none;
+    display: inline;
+    padding-right:5%;
+    margin-right: 7%;
+    font-size: larger;
+    width:3px;
+}
+.navi li :hover{
+    color: blue;
+}
+.pages{
+    text-decoration: none;
+    color:black;
+}
+.logout{
+    color: black;
+    margin-left: 6%;
+    font-size: larger;
+}
+

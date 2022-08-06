@@ -1,0 +1,32 @@
+ .sec{
+    background-color: khaki;
+    width: 500px;
+    height: 400px;
+    text-align: center;
+    margin-left: 30%;
+    border-radius: 20%;
+}
+.lable{
+    background-color: blueviolet;
+    color: aliceblue;
+    padding: 1%;
+    margin: 2%;
+}
+.name{
+    width: 250px;
+    padding: 2%;
+    margin: 3%;
+    border-color:black;
+    border-radius: 3em;
+}
+.password{
+    width: 250px;
+    padding: 2%;
+    margin: 3%;
+    border-color: black;
+    border-radius: 3em;
+}
+.submit{
+    margin: 4% !important;
+    margin-left: 16% !important;
+}  

@@ -1,0 +1,35 @@
+.cartdiv{
+    display: flex;
+    justify-content: center;
+}
+.remove{
+    padding: 1% !important;
+    color: rgb(221, 225, 233) !important;
+    margin-right: 2% !important;
+    border-radius: 40% !important;
+    border-color:gold !important;
+}
+.plus{
+    padding: 1%;
+    font-size:larger;
+    background-color:rgb(27, 204, 36);
+    color:lightyellow ;
+    margin-right: 2%;
+    border-radius:40%;
+}
+.plus :hover{
+    background-color: blue;
+}
+.minus{
+    width: 22px;
+    padding: 1%;
+    font-size: larger;
+    background-color: red;
+    color: lightyellow ;
+    margin-right: 2%;
+    border-radius:40%;
+
+}
+.minus :hover{
+    background-color: blue;
+}

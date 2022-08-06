@@ -1,0 +1,30 @@
+.feeddiv{
+    background-color: darkorange;
+    width: 500px;
+    text-align: center;
+    height: 100vh;
+    margin-left: 350px;
+    box-sizing: content-box;
+}
+.input{
+    padding: 2%;
+    margin-right: 27%;
+    border-radius: 2em;
+    width: 300px;
+    font-size: large;
+    margin-left: 100px;
+    margin-top: 3%;
+}
+.head{
+    color: black;
+    font-family:'Times new roman';
+}
+.text{
+    font-family: 'Times new roman';
+    font-size: large;
+}
+.btn{
+    margin-top: 4% !important;
+    border-radius: 2em !important;
+}
+
